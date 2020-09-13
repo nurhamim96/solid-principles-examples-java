@@ -1,6 +1,6 @@
 
 /**
- * Contoh penerapan prinsip Liskov’s substitution.
+ * Contoh penerapan prinsip Interface Segregation
  */
 
 //  CONTOH SEBELUM MENGGUNAKAN prinsip Interface Segregation
