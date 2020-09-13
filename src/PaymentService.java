@@ -1,6 +1,6 @@
 
 /**
- * Contoh penerapan prinsip Liskov’s substitution.
+ * Contoh penerapan Dependency Inversion Principle (DIP)
  */
 
 //  CONTOH SEBELUM MENGGUNAKAN Dependency Inversion Principle (DIP)
